@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Facu 👋
 
-<!--
-**facupython22/facupython22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de Ingeniería Agronómica y analista de datos en formación.  
+Me interesa integrar **agronomía + ciencia + datos** para resolver problemas reales del agro.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías que uso
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Power BI
+- QGIS / SIG
+- Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Áreas de interés
+- Agricultura de precisión
+- Modelos predictivos aplicados al agro
+- Ecofisiología vegetal
+- Producción forrajera
+- Hidrología agrícola
+- Automatización y análisis de datos
+
+## 📂 Proyectos (en desarrollo)
+- Análisis de biomasa en híbridos apomícticos de *Paspalum notatum*
+- Scripts de automatización en Python
+- Mapas y análisis espacial en QGIS
+- Limpieza y visualización de datos agropecuarios
+
+## 📫 Contacto
+LinkedIn: https://www.linkedin.com/in/facu-pieropan/
+Email: facupiero_22@hotmail.com
