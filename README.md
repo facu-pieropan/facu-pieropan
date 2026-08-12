@@ -15,11 +15,13 @@
 ---
 
 ### 💻 Sobre mí
-Mi enfoque profesional se centra en la intersección entre la producción vegetal y la ciencia de datos. Busco utilizar herramientas tecnológicas para optimizar procesos agrícolas, desde el análisis geoespacial hasta la implementación de modelos predictivos.
+
+Estudiante avanzado de Ingeniería Agronómica con una fuerte orientación hacia la ciencia de datos aplicada.
+Creo firmemente que el futuro del agro se escribe con datos. Combino mi formación agronómica con herramientas de análisis moderno (Python, SQL, SIG) para diseñar soluciones tecnológicas que mejoren la rentabilidad, el manejo de recursos y la sostenibilidad de los sistemas productivos.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Herramientas que utilizo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
