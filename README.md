@@ -18,11 +18,6 @@ Me interesa integrar **agronomía + ciencia + datos** para resolver problemas re
 - Hidrología agrícola
 - Automatización y análisis de datos
 
-## 📂 Proyectos (en desarrollo)
-- Análisis de biomasa en híbridos apomícticos de *Paspalum notatum*
-- Scripts de automatización en Python
-- Mapas y análisis espacial en QGIS
-- Limpieza y visualización de datos agropecuarios
 
 ## 📫 Contacto
 LinkedIn: https://www.linkedin.com/in/facu-pieropan/
