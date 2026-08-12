@@ -4,9 +4,9 @@
   <strong>Estudiante avanzado de Ingeniería Agronómica | Analista de Datos en formación</strong>
 </p>
 
-<p align="center">
-  <em>"Integrando agronomía, ciencia y datos para resolver problemas en el agro."</em>
-</p>
+<blockquote align="center">
+  <p><em>"Sin datos, eres solo otra persona con una opinión."</em><br>— W. Edwards Deming</p>
+</blockquote>
 
 ---
 
@@ -37,14 +37,6 @@ Mi enfoque profesional se centra en la intersección entre la producción vegeta
 
 ---
 
-### 📊 Estadísticas (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facu-pieropan&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Facu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facu-pieropan&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Facu">
-</p>
-
----
 
 ### 📫 Contacto
 
