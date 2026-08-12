@@ -1,4 +1,9 @@
-<h1 align="center">Hola, soy Facu👋</h1>
+<img width="956" height="1120" alt="imagen3" src="https://github.com/user-attachments/assets/725b80f9-c13d-4b27-9a4f-8e841215e57a" />
+
+<h3>
+  <img src="https://github.com/user-attachments/assets/725b80f9-c13d-4b27-9a4f-8e841215e57a" width="60" align="middle" alt="Avatar Pixel Art">
+  Hola, soy Facu 👋
+</h3>
 
 <p align="center">
   <strong>Estudiante avanzado de Ingeniería Agronómica | Analista de Datos en formación</strong>
