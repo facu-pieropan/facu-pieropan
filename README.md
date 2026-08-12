@@ -1,6 +1,6 @@
 
 <h3>
-  <img src="https://github.com/user-attachments/assets/725b80f9-c13d-4b27-9a4f-8e841215e57a" width="60" align="middle" alt="Avatar Pixel Art">
+  <img src="https://github.com/user-attachments/assets/9d251710-a831-4d06-8c35-3420f1f49c40" width="60" align="middle" alt="Avatar Pixel Art">
   Hola, soy Facu 👋
 </h3>
 
