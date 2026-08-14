@@ -14,7 +14,7 @@
 
 <br>
 
-###📄 Sobre mí
+### 📄 Sobre mí
 
 Vengo del palo del agro, pero entendí rápido que **el futuro del campo se escribe con datos**. 
 
