@@ -9,20 +9,20 @@
 </p>
 
 <p align="center">
-  <em>"Transformando datos de lote en decisiones agronómicas inteligentes."</em>
+  <em>"Sin datos, eres solo otra persona con una opinión." — W. Edwards Deming</em>
 </p>
 
 <br>
 
-### 🚀 Sobre mí
+###📄 Sobre mí
 
 Vengo del palo del agro, pero entendí rápido que **el futuro del campo se escribe con datos**. 
 
-Me dedico a cruzar la agronomía de toda la vida con herramientas modernas de análisis (**Python, SQL, SIG**) para resolver problemas reales del sector productivo. Si hay un lote, un mapa satelital o una base de datos de rendimiento dando vueltas, ahí me vas a encontrar buscando patrones.
+Combino mi formación agronómica con herramientas de análisis moderno para diseñar soluciones tecnológicas que mejoren la rentabilidad, el manejo de recursos y la sostenibilidad de los sistemas productivos.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Mis herramientas habituales
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -39,15 +39,6 @@ Me dedico a cruzar la agronomía de toda la vida con herramientas modernas de an
 * 🛰️ **Agricultura de Precisión:** Monitoreo satelital, índices de vegetación y automatización de procesos espaciales.
 * 🌿 **Ecofisiología & Forrajes:** Buscando optimizar la producción vegetal mediante análisis cuantitativo.
 * 💧 **Hidrología Agrícola:** Dándole una vuelta de tuerca a la gestión eficiente de los recursos hídricos.
-
----
-
-### 📊 Mis Números en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Langs" />
-</p>
 
 ---
 
