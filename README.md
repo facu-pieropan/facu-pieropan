@@ -1,27 +1,28 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d251710-a831-4d06-8c35-3420f1f49c40" width="130" alt="Facu Pieropan" style="border-radius: 50%; border: 3px solid #388bfd; padding: 2px;">
+  <img src="https://github.com/user-attachments/assets/9d251710-a831-4d06-8c35-3420f1f49c40" width="130" alt="Facu Pieropan" style="border-radius: 50%; border: 3px solid #589632; padding: 2px;">
 </p>
 
-<h1 align="center">Hola, soy Facu 👋</h1>
-
-<p align="center">
-  <strong>Estudiante avanzado de Ingeniería Agronómica | Analista de Datos en formación</strong>
-</p>
+<h1 align="center">¡Hola! Soy Facu 👋</h1>
 
 <p align="center">
-  <em>"Sin datos, eres solo otra persona con una opinión." — W. Edwards Deming</em>
+  🌱 <strong>Estudiante avanzado de Agronomía & Analista de Datos en formación</strong> 📊
 </p>
+
+<p align="center">
+  <em>"Transformando datos de lote en decisiones agronómicas inteligentes."</em>
+</p>
+
+<br>
+
+### 🚀 Sobre mí
+
+Vengo del palo del agro, pero entendí rápido que **el futuro del campo se escribe con datos**. 
+
+Me dedico a cruzar la agronomía de toda la vida con herramientas modernas de análisis (**Python, SQL, SIG**) para resolver problemas reales del sector productivo. Si hay un lote, un mapa satelital o una base de datos de rendimiento dando vueltas, ahí me vas a encontrar buscando patrones.
 
 ---
 
-### 💻 Sobre mí
-
-Estudiante avanzado de Ingeniería Agronómica con una fuerte orientación hacia la ciencia de datos aplicada.
-Creo firmemente que el futuro del agro se escribe con datos. Combino mi formación agronómica con herramientas de análisis moderno (Python, SQL, SIG) para diseñar soluciones tecnológicas que mejoren la rentabilidad, el manejo de recursos y la sostenibilidad de los sistemas productivos.
-
----
-
-### 🛠️ Herramientas que utilizo
+### 🛠️ Mi Stack Tecnológico
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -33,18 +34,26 @@ Creo firmemente que el futuro del agro se escribe con datos. Combino mi formaci�
 
 ---
 
-### 🌾 Áreas de Especialización
+### 🌾 ¿En qué ando enfocado?
 
-| Áreas Clave | Enfoque Técnico |
-| :--- | :--- |
-| **Agricultura de Precisión** | SIG, monitoreo satelital y automatización. |
-| **Ecofisiología & Forrajes** | Optimización de producción vegetal. |
-| **Hidrología Agrícola** | Gestión eficiente de recursos hídricos. |
+* 🛰️ **Agricultura de Precisión:** Monitoreo satelital, índices de vegetación y automatización de procesos espaciales.
+* 🌿 **Ecofisiología & Forrajes:** Buscando optimizar la producción vegetal mediante análisis cuantitativo.
+* 💧 **Hidrología Agrícola:** Dándole una vuelta de tuerca a la gestión eficiente de los recursos hídricos.
 
 ---
 
+### 📊 Mis Números en GitHub
 
-### 📫 Contacto
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 ¿Charlamos?
+
+Si estás buscando sumar alguien que entienda tanto de cultivos como de código, o simplemente querés charlar sobre tecnología aplicada al agro:
 
 <p align="center">
   <a href="https://linkedin.com/in/facu-pieropan/" target="_blank">
@@ -54,8 +63,3 @@ Creo firmemente que el futuro del agro se escribe con datos. Combino mi formaci�
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-
-
-
-
