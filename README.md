@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./header.svg" alt="Banner de Perfil" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9d251710-a831-4d06-8c35-3420f1f49c40" width="130" alt="Facu Pieropan" style="border-radius: 50%; border: 3px solid #589632; padding: 2px;">
